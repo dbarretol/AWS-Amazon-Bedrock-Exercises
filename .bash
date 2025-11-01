@@ -23,3 +23,5 @@ uv pip install -r requirements.txt
 
 # ✅ Verify installed packages
 uv pip list
+
+# To execute the notebooks or scripts, you need to set up AWS credentials by following the instructions in the file titled **AWS Configuration Instructions.md**.
