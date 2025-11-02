@@ -176,3 +176,5 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 cli-user_accessKeys.csv
+tmp.md
+command/1.13.Demo-Amazon-Bedrock-API.sh
